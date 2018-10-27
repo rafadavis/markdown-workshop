@@ -1,0 +1,87 @@
+* TODOs
+** TODO Add instalation instructions to eventbrite
+vscode: interface similar pc and mac https://github.com/DHRI-Curriculum/install/blob/master/sections/vscode.md
+** TODO Check gcdi gmail account during the week
+** TODO Ask Marilyn to put it on the history commons
+** TODO Publicize it on the History facebook
+** TODO Send Tom and Lisa e-mails
+Tell them about the low registering and ask them how to make it more publicized
+** TODO Put Markdown publicization on the meeting agenda
+** TODO Get sticky notes on the Lab on Monday
+     Use sticky notes. (i like: green - done; yellow - working on it, give me time; red - need help)
+** TODO Make sure all the computers are working
+** TODO Check the evaluation questions and make sure I am addressing those things during the workshop.
+https://docs.google.com/forms/d/e/1FAIpQLSfNW2FJXd236V3zCtJXHLiJrKETEXqVms-qTxHaYN_h8GCA_A/viewform
+Have a time to fill the evaluation sometime before the end and save something interesting for later.
+* Presentation
+1. [bring lots of texts for them to use and play when doing markup]
+2. Get people to work together to solve problems. Put them in groups and put them together for this. Think of ideas of exercises and challenges for them.
+
+
+** Why not simply use Word/Google Docs
+** Why text files?
+    If you write your dissertation in plain text file, you are future proofing them. You will ALWAYS be able to use it, no matter what operational system, what computer and what year you are in. You won't have to worry about compatibility, license or anything else
+    https://leanpub.com/ Publish as e-book, kindle format
+    EMOJIS! Couldn't make it work. Need to test in pdf and html https://www.webpagefx.com/tools/emoji-cheat-sheet/
+    Creating presentations: https://remarkjs.com/#1 and http://jdan.github.io/cleaver/
+    Writing in text file allows you to separate your dissertation in more than one file, if you want, so you you can have different files for different chapters. When you want to put it all together, it will be very easy and quick to do it. If you try to do that in word, it is a nightmare of formatting issues, and page number issues, with chances of corrupting file.
+    Images: upload your images on the internet and use the links. This way your file will always be light and your images can accessed by anyone with internet. If you need a pdf, or to print they will be there.
+    * it works well with Git, so keeping backups is straightforward. Just commit the changes and then push them to your repository.
+    * there is no lock-in. If you decide that Markdown isn't for you, then just output to Word, or whatever, and continue working in the new format.
+    Markdown is a syntax that transforms plain text in rich text.
+    collaboration is easy. Have you tried to put together the contents from different files? The formatting usually becomes a mess
+    citations are automatic (doesnt matter if one is working with chicago and the other with apa)
+** What is a markup language?
+    Show the same code in markdown and html
+
+** How to write in markdown
+    comments, drafts of text, etc can be added to the document by wrapping them in <!-- -->
+** Converting: Pandoc
+    Pandoc: universal document converter
+    Converts the writing from markdown to latex (for example); but also converts extension, from md to docx (for example)
+    pandoc.org
+
+* STOPPED HERE! 
+
+
+    http://dhinstitutes.org/
+    https://github.com/DHRI-Curriculum/git
+
+    portion of this is writing on markdown
+    Extra content: show github to use syllaby, have different versions, share, use others and fork it
+    Pandoc to translate to word doc; Use kelsey reading lists to her orals. Using markdown and track changes on github.
+
+    Use syllabus as example since everyone has to use it. It would be a good sample thing. 
+    References: teach them to do manually and show in the end that they can do it automatically.
+
+
+
+Text editors are different from word processors. Unlike applications such as Microsoft Word, text editors generally don't make a big effort to make what you write look like as though it is being written on a printed page.[fn:cottrell] Instead, they focus on working with text efficiently and assisting you with visualizing the logical structure of what you're writing
+
+- bring my paper written for joshuas class in latex, and another one written in word and show them how different they look
+** Links
+    https://wcm1.web.rice.edu/my-academic-book-in-plain-text.html
+
+    Good arguments on why to use, some tips as well USE IT
+    http://pandoc.org/MANUAL.html#pandocs-markdown - very complete manual. Good to take a look
+    https://github.com/lmullen/workflow-paper
+
+
+
+AINDA NAO CHEQUEI OS LINKS ABAIXO (MAS JA OLHEI TODOS ACIMA)
+https://gist.github.com/zmwangx/9987772
+https://www.youtube.com/results?search_query=markdown
+https://www.macsparky.com/markdown/
+https://www.reddit.com/r/webdev/comments/3572eu/use_markdown_for_your_presentations_its_awesome/
+https://readwrite.com/2012/04/17/why-you-need-to-learn-markdown/
+https://jrladd.com/markdown-dissertation.html
+https://github.com/tompollard/phd_thesis_markdown
+
+* Random notes
+    [bring lots of texts for them to use and play when doing markup]
+    Get people to work together to solve problems. Put them in groups and put them together for this. Think of ideas of exercises and challenges for them.
+
+    Site to use markdown online: https://dillinger.io/ 
+    Check markdown online. Not ideal to work in that, as some things might not work, but if you are not on your computer and are just trying to see how some things will look, you could go there.
+build on other people's work on github, and make sure to cite. Something like this.
+   on git, there is an example of syllabus that I can bring to the workshop: https://github.com/DHRI-Curriculum/git/blob/master/sections/markdown.md
