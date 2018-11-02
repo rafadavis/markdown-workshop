@@ -144,7 +144,7 @@ However, this will be a new paragraph, since we skipped a line.
 ```
 ***
 
-For line breaks, there are two options. You can either press space twice in the end of the line, or you can type "/" in the end of the line. The second method is preferred, since it is something you and other people can see in the code. 
+For line breaks, there are two options. You can either press space twice in the end of the line, or you can type "\" in the end of the line. The second method is preferred, since it is something you and other people can see in the code. 
 
 Let's say we want to try a little poem. Try to make this (or any other short poem in your mind):
 
@@ -188,7 +188,7 @@ You will get this:
 ### Exercise:
 
 - Type "## Emphasis" and press *enter* to go to the next line.
-- Use the charachter "\*" to write something **bold**, something *italic*, and something ***bold and italic***.
+- Use the character "\*" to write something **bold**, something *italic*, and something ***bold and italic***.
 - *Write this whole sentence in italic with **these three words** in bold.*
 
 ## Block quotes:
@@ -223,7 +223,7 @@ Now try to make this groceries list:
 
 Ordered lists can be done either with "1." or "1)". The number don't actually matter. you can always use "1." if you want, the program will make sure to count and put it in the right order. This is good because you don't have to worry about chaning the numbers if you decide to change the order. You can also mix unordered and ordered lists.
 
-- Type "### Unordered" and press *enter*.
+- Type "### Ordered" and press *enter*.
 - Now try to make this list of steps to make a trip:
 
 1. Buy airplane tickets
